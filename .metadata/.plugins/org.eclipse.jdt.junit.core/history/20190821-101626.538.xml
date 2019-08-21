@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyRunner" project="cucumber1" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="mystepdefinations.MyRunner" time="0.03">
+    <testsuite name="Feature: Understanding of tags" time="0.03">
+      <testcase name="Login validation on flipkart" classname="Understanding of tags" time="0.0"/>
+      <testcase name="User access tp items in portal" classname="Understanding of tags" time="0.0"/>
+      <testcase name="User access to items in portal" classname="Understanding of tags" time="0.03"/>
+    </testsuite>
+  </testsuite>
+</testrun>

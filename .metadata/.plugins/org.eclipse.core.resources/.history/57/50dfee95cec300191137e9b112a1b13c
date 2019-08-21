@@ -1,0 +1,16 @@
+package mystepdefinations;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+@RunWith (Cucumber.class)
+//for all single feature file
+//plugin is for generating html report
+@CucumberOptions(features="C:\\Users\\training_h2a.06.15\\Desktop\\Selenium workspace\\cucumber1\\myfeatures\\DemoTags.feature",glue="mystepdefinations",tags= {"@Regression,@Smoke"},plugin= {"html:target/cucumber-htmlreport.html"})
+//for single feature file
+//@CucumberOptions(features="C:\\Users\\training_h2a.06.15\\Desktop\\Selenium workspace\\cucumber1\\src\\test\\java\\mystepdefinations\\TestmeLogin.java",glue="mystepdefinations")
+public class MyRunner {
+
+}

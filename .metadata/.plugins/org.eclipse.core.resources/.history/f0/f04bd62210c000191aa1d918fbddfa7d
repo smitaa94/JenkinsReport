@@ -1,0 +1,9 @@
+package CASESTUDY.PracticeOnlineshopping;
+
+import org.testng.annotations.Test;
+
+public class TestmeApp {
+  @Test
+  public void f() {
+  }
+}

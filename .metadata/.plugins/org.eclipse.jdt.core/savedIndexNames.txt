@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\training_h2a.06.15\Desktop\Selenium workspace\.metadata\.plugins\org.eclipse.jdt.core
+1863496877.index

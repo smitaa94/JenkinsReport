@@ -1,0 +1,36 @@
+package testngdemo;
+
+import org.testng.annotations.Test;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+
+public class ExtentReportsTest {
+	ExtentHtmlReporter htmlReporter;
+	ExtentReports extent;
+	ExtentTest logger;
+  @Test
+  public void startReport() {
+  }
+  public void passTest() {
+	  
+  }
+  public void failTest()
+  {
+	  
+  }
+  public void skipTest()
+  {
+	  
+  }
+  public void getResult()
+  {
+	  
+  }
+  public void endReport()
+  {
+	  
+  }
+  
+}

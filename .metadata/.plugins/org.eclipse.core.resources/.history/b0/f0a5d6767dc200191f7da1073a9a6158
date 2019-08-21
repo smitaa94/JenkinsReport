@@ -1,0 +1,4 @@
+Feature: myvalidation1 on Testme application.
+Scenario: Testme login
+Given Application is launched
+When User enters credentials
